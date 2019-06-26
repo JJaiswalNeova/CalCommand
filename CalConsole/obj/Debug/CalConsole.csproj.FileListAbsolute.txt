@@ -1,0 +1,5 @@
+c:\users\neova_jayant\documents\visual studio 2013\Projects\CalConsole\CalConsole\bin\Debug\CalConsole.exe.config
+c:\users\neova_jayant\documents\visual studio 2013\Projects\CalConsole\CalConsole\bin\Debug\CalConsole.exe
+c:\users\neova_jayant\documents\visual studio 2013\Projects\CalConsole\CalConsole\bin\Debug\CalConsole.pdb
+c:\users\neova_jayant\documents\visual studio 2013\Projects\CalConsole\CalConsole\obj\Debug\CalConsole.exe
+c:\users\neova_jayant\documents\visual studio 2013\Projects\CalConsole\CalConsole\obj\Debug\CalConsole.pdb
